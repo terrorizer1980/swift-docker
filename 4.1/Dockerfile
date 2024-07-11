@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20201014
 LABEL maintainer="Haris Amin <aminharis7@gmail.com>"
 LABEL Description="Docker Container for the Apple's Swift programming language"
 
